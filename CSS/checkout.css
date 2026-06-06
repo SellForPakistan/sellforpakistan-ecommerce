@@ -1,0 +1,60 @@
+.checkout-section{
+padding:20px;
+}
+
+.checkout-box{
+max-width:600px;
+margin:auto;
+background:#fff;
+border:1px solid #eee;
+border-radius:20px;
+padding:20px;
+}
+
+.checkout-box h2{
+margin-bottom:15px;
+}
+
+.checkout-box input,
+.checkout-box textarea{
+width:100%;
+padding:12px;
+margin-bottom:12px;
+border:1px solid #ddd;
+border-radius:10px;
+font-family:'Poppins';
+}
+
+.checkout-box textarea{
+resize:none;
+height:100px;
+}
+
+.order-summary{
+background:#f8f8f8;
+padding:12px;
+border-radius:10px;
+margin-bottom:15px;
+}
+
+.success-msg{
+background:#e8fff0;
+color:#1b7f3a;
+padding:12px;
+border-radius:10px;
+margin-top:10px;
+text-align:center;
+}
+
+.error-msg{
+background:#ffe8e8;
+color:#b00020;
+padding:12px;
+border-radius:10px;
+margin-top:10px;
+text-align:center;
+}
+
+.btn{
+width:100%;
+}
