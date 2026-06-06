@@ -1,0 +1,5 @@
+const CONFIG = {
+  API_URL: "https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQdJhbKNsYxIN4FCgU-cCGf5zympFu7IYappubGbIlfCQSBU79uXrQ7Y3cCWuFaE7ihsc2cUkOa4UOvUim8essCpRJgA_EykJcmkCMU4RXasJcpdVFnhjzufv9CCLkvndIhPBvHHTRfMjR_GkYLICno6U6wB_SSUZiyNSoL9FjlzWgu7avQ61VupQyEOnAOT4HLurvvsn1W86tIw665jzZAhpn_cyRQSIwoREt3lBbHFGXxy518BUPkQPjwRBrmNHYaUbNsLUpMAcEhscbeWRlHK4v_NQ&lib=MY9nATLiaC8zRCY_4TYkInsX4thzKsNoj",
+
+  WEBSITE_NAME: "Sell For Pakistan"
+};
